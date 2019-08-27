@@ -2,7 +2,7 @@
 # Teste Full Stack
 
 O teste consiste em criar uma API REST que busca usuarios pelo nome e username a partir de uma palavra chave. 
-Faça o download do arquivo [users.csv.gz](https://raw.githubusercontent.com/gruposkill/we-are-hiring/master/go/users.csv.gz) que contém o banco de dados que deve ser usado na busca. 
+Faça o download do arquivo [users.csv.gz](https://github.com/gruposkill/we-are-hiring/raw/master/go/users.csv.gz) que contém o banco de dados que deve ser usado na busca. 
 Ele contém os IDs, nomes e usernames dos usuários.
 
 ###### Exemplo
